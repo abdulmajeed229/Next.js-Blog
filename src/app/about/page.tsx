@@ -13,8 +13,8 @@ function About(){
 
 <br />
 
-         <p className="text-justify">
-Welcome to our website! We’re glad you’re here.
+         <p className="text-justify"> 
+<a href="https://getforbe.com">Welcome to our website! <a/> We’re glad you’re here.
 
 Our website is your one-stop destination for a variety of interesting topics. We cover multiple niches, bringing you the best content in technology, animals, biographies, and education. Here’s a little bit about what you can expect from each section:
 
