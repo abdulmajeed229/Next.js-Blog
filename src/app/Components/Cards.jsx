@@ -7,10 +7,7 @@ import Link from "next/link";
 
 function Card() {
   const [data, setData] = useState([]); 
-  
-
-  console.log(data);
-  
+    
   useEffect(() => {
     getData();
   }, []);
